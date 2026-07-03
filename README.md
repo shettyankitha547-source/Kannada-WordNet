@@ -2,7 +2,7 @@
 
 ## 📖 Project Overview
 
-The Kannada WordNet Interface is an enhanced interface developed for accessing Kannada lexical resources from IndoWordNet. The project improves the usability of the existing IndoWordNet system by providing a modern and user-friendly interface.
+A user-friendly interface for exploring **Kannada WordNet** using Python and Google Colab. The project improves the usability of IndoWordNet by providing a clean interface with lexical search and interactive features.
 
 ## ✨ Features
 
